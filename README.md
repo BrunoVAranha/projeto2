@@ -1,4 +1,5 @@
 # Projeto 2
+Obs: para que os comandos abaixo funcionem, talvez seja necessário executá-los em um ambiente virtual para que o gRPC funcione corretamente.
 
 ## Descrição
 Este projeto implementa uma **DHT** (Distributed Hash Table) que armazena códigos de erro HTTP e formata uma URL mediante uma requisição do cliente.
